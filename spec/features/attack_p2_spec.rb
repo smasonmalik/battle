@@ -1,4 +1,4 @@
-feature 'Attack Plater 2' do
+feature 'Attack Player 2' do
   scenario 'Receives confirmation of attack' do
     sign_in_and_play
     click_button 'Attack'
